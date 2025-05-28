@@ -1,2 +1,2 @@
 # emojis
-<img src="images(1).png">
+<img src="https://github.com/Ruslan-lab-cpu-1/emojis/blob/main/images%20(1).png">
